@@ -31,5 +31,6 @@ installcask teamviewer
 installcask the-unarchiver
 installcask tor-browser
 installcask transmission
+installcask vagrant
 installcask virtualbox
 installcask vlc
