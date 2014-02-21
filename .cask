@@ -12,6 +12,7 @@ installcask github
 installcask google-chrome
 installcask google-chrome-canary
 installcask google-hangouts
+installcask google-music-manager
 installcask imagealpha
 installcask imageoptim
 installcask iterm2
