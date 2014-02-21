@@ -11,6 +11,7 @@ installcask evernote
 installcask github
 installcask google-chrome
 installcask google-chrome-canary
+installcask google-hangouts
 installcask imagealpha
 installcask imageoptim
 installcask iterm2
