@@ -27,6 +27,7 @@ installcask node
 installcask rdio
 installcask skype
 installcask sublime-text
+installcask teamviewer
 installcask the-unarchiver
 installcask tor-browser
 installcask transmission
