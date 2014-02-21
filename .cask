@@ -23,6 +23,7 @@ installcask imageoptim
 installcask iterm2
 installcask live-reload
 installcask mamp
+installcask node
 installcask rdio
 installcask skype
 installcask sublime-text
