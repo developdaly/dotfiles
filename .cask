@@ -9,6 +9,7 @@ function installcask() {
 installcask airfoil
 installcask aptana-studio
 installcask cornerstone
+installcask cyberduck
 installcask evernote
 installcask github
 installcask google-chrome
