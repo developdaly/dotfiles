@@ -27,6 +27,10 @@ sudo nvram SystemAudioVolume=" "
 # Menu bar: disable transparency
 defaults write NSGlobalDomain AppleEnableMenuBarTransparency -bool false
 
+# Show remaining battery percentage
+defaults write com.apple.menuextra.battery ShowPercent -string "YES"
+defaults write com.apple.menuextra.battery ShowTime -string "NO"
+
 # Set highlight color to green
 defaults write NSGlobalDomain AppleHighlightColor -string "0.764700 0.976500 0.568600"
 
