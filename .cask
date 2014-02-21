@@ -13,6 +13,7 @@ installcask google-chrome
 installcask google-chrome-canary
 installcask google-hangouts
 installcask google-music-manager
+installcask filezilla
 installcask imagealpha
 installcask imageoptim
 installcask iterm2
