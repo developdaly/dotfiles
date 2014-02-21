@@ -141,7 +141,7 @@ defaults write NSGlobalDomain com.apple.swipescrolldirection -bool false
 defaults write NSGlobalDomain com.apple.mouse.scaling -float 4
 
 # Global trackpad tracking speed (1...5)
-defaults write NSGlobalDomain com.apple.trackpad.scaling -int 4
+defaults write NSGlobalDomain com.apple.trackpad.scaling -int 3
 
 # Increase sound quality for Bluetooth headphones/headsets
 defaults write com.apple.BluetoothAudioAgent "Apple Bitpool Min (editable)" -int 40
