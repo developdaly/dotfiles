@@ -18,6 +18,7 @@ installcask firefox
 installcask imagealpha
 installcask imageoptim
 installcask iterm2
+installcask live-reload
 installcask sublime-text
 installcask the-unarchiver
 installcask tor-browser
