@@ -21,7 +21,7 @@ installcask firefox
 installcask imagealpha
 installcask imageoptim
 installcask iterm2
-installcask live-reload
+installcask livereload
 installcask music-manager
 installcask mamp
 installcask node
