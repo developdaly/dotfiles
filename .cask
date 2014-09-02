@@ -7,7 +7,7 @@ function installcask() {
 }
 
 installcask airfoil
-installcask aptana-studio
+installcask aptanastudio
 installcask atom
 installcask cornerstone
 installcask cyberduck
