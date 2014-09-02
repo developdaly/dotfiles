@@ -16,13 +16,13 @@ installcask github
 installcask google-chrome
 installcask google-chrome-canary
 installcask google-hangouts
-installcask google-music-manager
 installcask filezilla
 installcask firefox
 installcask imagealpha
 installcask imageoptim
 installcask iterm2
 installcask live-reload
+installcask music-manager
 installcask mamp
 installcask node
 installcask rdio
