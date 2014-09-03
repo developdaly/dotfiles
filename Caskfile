@@ -5,7 +5,8 @@ install caskroom/cask/brew-cask
 tap caskroom/versions
 
 cask install airfoil 2> /dev/null
-cask install aptana-studio 2> /dev/null
+cask install aptanastudio 2> /dev/null
+cask install atom 2> /dev/null
 cask install cornerstone 2> /dev/null
 cask install cyberduck 2> /dev/null
 cask install evernote 2> /dev/null
@@ -13,13 +14,12 @@ cask install github 2> /dev/null
 cask install google-chrome 2> /dev/null
 cask install google-chrome-canary 2> /dev/null
 cask install google-hangouts 2> /dev/null
-cask install google-music-manager 2> /dev/null
 cask install filezilla 2> /dev/null
 cask install firefox 2> /dev/null
 cask install imagealpha 2> /dev/null
 cask install imageoptim 2> /dev/null
 cask install iterm2 2> /dev/null
-cask install live-reload 2> /dev/null
+cask install livereload 2> /dev/null
 cask install mamp 2> /dev/null
 cask install macvim 2> /dev/null
 cask install miro-video-converter 2> /dev/null
