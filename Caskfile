@@ -5,7 +5,6 @@ install caskroom/cask/brew-cask
 tap caskroom/versions
 
 cask install airfoil 2> /dev/null
-cask install aptanastudio 2> /dev/null
 cask install atom 2> /dev/null
 cask install cornerstone 2> /dev/null
 cask install cyberduck 2> /dev/null
@@ -13,21 +12,15 @@ cask install evernote 2> /dev/null
 cask install github 2> /dev/null
 cask install google-chrome 2> /dev/null
 cask install google-chrome-canary 2> /dev/null
-cask install google-hangouts 2> /dev/null
 cask install filezilla 2> /dev/null
 cask install firefox 2> /dev/null
-cask install imagealpha 2> /dev/null
-cask install imageoptim 2> /dev/null
 cask install iterm2 2> /dev/null
-cask install livereload 2> /dev/null
 cask install mamp 2> /dev/null
-cask install macvim 2> /dev/null
 cask install miro-video-converter 2> /dev/null
 cask install node 2> /dev/null
 cask install rdio 2> /dev/null
 cask install skype 2> /dev/null
 cask install sublime-text 2> /dev/null
-cask install teamviewer 2> /dev/null
 cask install the-unarchiver 2> /dev/null
 cask install torbrowser 2> /dev/null
 cask install transmission 2> /dev/null
